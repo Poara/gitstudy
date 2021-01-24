@@ -1,8 +1,12 @@
 a = "hello"
 print(a)
 
-ba = "world"
-print(ba)
+b = "world"
+print(b)
 
 c = "test"
 print(c)
+
+d = "test"
+if c == d:
+    print("yes")
