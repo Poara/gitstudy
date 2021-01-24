@@ -1,5 +1,8 @@
 a = "hello"
 print(a)
 
-b = "world"
-print(b)
+ba = "world"
+print(ba)
+
+c = "test"
+print(c)
